@@ -59,11 +59,16 @@ p {
 
 a {
   font-size: 50px;
-  color: green;
+  color: rgb(117, 117, 117);
   margin: 10px;
   transition: 0.5s;
 }
 
 a:hover {
   font-size: 60px;
+  color: rgb(255, 255, 255);
+}
+
+a:active {
+  color: rgb(255, 255, 255);
 }
