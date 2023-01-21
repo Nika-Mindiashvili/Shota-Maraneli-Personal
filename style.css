@@ -61,4 +61,9 @@ a {
   font-size: 50px;
   color: green;
   margin: 10px;
+  transition: 0.5s;
+}
+
+a:hover {
+  font-size: 60px;
 }
